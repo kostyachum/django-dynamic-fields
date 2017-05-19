@@ -50,3 +50,10 @@ class CustomerForm(CustomFieldsForm):
 ### Customize
 - Go to admin /admin/dynamic_fields/field/
 - Add fields
+
+
+
+## ToDo
+- Files and Images upload
+- UI for sort in admin
+- UT
